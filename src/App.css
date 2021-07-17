@@ -124,6 +124,16 @@ Label {
   align-items: center;
 }
 
+.send-meme-wrapper {
+  float: left;
+  margin-left: 200px;
+}
+
+.chats-messages-wrapper {
+  float: right;
+  margin-right: 300px;
+}
+
 small {
   border: 2px solid #777;
   border-radius: 7px;
